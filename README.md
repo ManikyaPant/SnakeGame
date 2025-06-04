@@ -1,2 +1,2 @@
 # SnakeGame
-A simple snake game built in C++ using raylib 
+A retro snake game built in C++ using raylib 
